@@ -4,7 +4,7 @@
 
 MetaWeatherAPITests is a java based project written to test Meta Weather API available at  https://www.metaweather.com/api
 
-It utlises Rest Assured Java based library used to test RESTful Web Services (http://rest-assured.io/).
+It utlises Rest Assured Java library used to test RESTful Web Services (http://rest-assured.io/).
 
 ## Getting Started
 
@@ -12,10 +12,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-JAVA (JDK/JRE)
-IDE (Eclipse, IntelliJ)
-Maven
-TestNG
+* JAVA (JDK/JRE)
+* IDE (Eclipse, IntelliJ)
+* Maven
+* TestNG
 
 ### Installing
 
@@ -49,7 +49,7 @@ The following dependencies are mentioned in pom.xml file
 		<version>4.0.0</version>
 	</dependency> 
 
-All required jar file will be downloaded by Maven.
+All required jar file will atuomatically be downloaded by Maven.
 
 ## Running the tests
 
