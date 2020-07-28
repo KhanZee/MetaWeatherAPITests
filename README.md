@@ -49,7 +49,7 @@ The following dependencies are mentioned in pom.xml file
 		<version>4.0.0</version>
 	</dependency> 
 
-All required jar file will atuomatically be downloaded by Maven.
+All required jar files will atuomatically be downloaded by Maven.
 
 ## Running the tests
 
@@ -59,7 +59,7 @@ The following classes under src/test/java contain automated tests
 * LocationDay.java - This class contains tests for "Location Day" method of Meta Weather API
 * LocationSearch.Java - This class contains tests for "Location Search" method of Meta Weather API
 
-To run these test, right click on package com.khanzee.testpackage > Run As > TestNG Test
+To run these tests, right click on package com.khanzee.testpackage > Run As > TestNG Test (This step may differ if you are using an IDE other than Eclipse).
 
 This will run all 13 tests from the classes above. Please see comments before test methods for details on what testing is performed by each test.
 
